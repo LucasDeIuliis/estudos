@@ -1,0 +1,4 @@
+Obs: O arquivo no qual será lido vou deixar na pasta Arquivos de Apoio com o nome de teste01.txt 
+
+Tarefa 1:
+	- Criar um sistema em java que leia um arquivo no diretório: "c:/teste01/teste01.txt" e printe no console o conteudo do arquivo.
