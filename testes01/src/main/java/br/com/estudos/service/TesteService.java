@@ -5,6 +5,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class TesteService {
     public void mensagemInicial(){
-        System.out.println("Olá Mundo - Douglas");
+        String nome = "Olá Mundo - Lucas";
+        System.out.println( new StringBuilder(nome).reverse().toString());
     }
 }
